@@ -433,7 +433,7 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  background: url("../img/bg.jpg") top center;
+  background: url("assets/img/bg.jpg") top center;
   background-size: cover;
   height: 60px;
   display: block;
