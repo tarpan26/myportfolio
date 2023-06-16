@@ -434,6 +434,7 @@ section {
 --------------------------------------------------------------*/
 .skills .progress {
   background: url("../img/bg.jpg") top center;
+  background-size: cover;
   height: 60px;
   display: block;
   background: none;
